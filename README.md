@@ -1,12 +1,12 @@
 # Olá, sou o Fellipe!
 
 <br>👋 Olá! me chamo Fellipe, sou um desenvolvedor apaixonado por tecnologia e programação.<br> 
-Atualmente, cursando Análise e Desenvolvimento de Sistemas, focando no desenvolvimento front-end e back-end. 
+Atualmente, cursando Análise e Desenvolvimento de Sistemas, focando no desenvolvimento front-end e back-end para Web. 
 
 ## Sobre Mim
 
 - 🎓 **Educação**: Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 **Experiência**: Mais de dois anos de experiência na área de programação
+- 💻 **Experiência**: Mais de três anos de experiência na área de programação
 - 🌐 **Habilidades**:
   - WordPress   
   - **Linguagens**: HTML, CSS, JavaScript, PHP, C
@@ -19,3 +19,4 @@ Atualmente, cursando Análise e Desenvolvimento de Sistemas, focando no desenvol
 ## Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/fellipe-syllos-de-carvalho-7008b0295/))
+- [WhatsApp](https://w.app/GYPD9d)
