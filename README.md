@@ -1,5 +1,4 @@
 # Olá, sou o Fellipe!
-![foto de perfil](
 <br>👋 Olá! me chamo Fellipe, sou um desenvolvedor apaixonado por tecnologia e programação.<br> 
 Atualmente, cursando Análise e Desenvolvimento de Sistemas, focando no desenvolvimento front-end e back-end para Web. 
 
