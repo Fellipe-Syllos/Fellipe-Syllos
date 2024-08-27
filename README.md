@@ -6,9 +6,8 @@ Atualmente, cursando Análise e Desenvolvimento de Sistemas, focando no desenvol
 
 - 🎓 **Educação**: Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 **Experiência**: Mais de três anos de experiência na área de programação
-  ## - 🌐 **Stacks**
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>   
-  - **Linguagens** <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/></div>
+  ## - 🌐 **Stacks** 
+ <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/></div>
   - **Aprendendo**: Phyton, nodeJS, React, .net
 - 🌱 **Objetivos**: Estou sempre buscando refinar e ampliar minhas habilidades com lógica e linguagens de programação.
 - 🤝 **Soft Skills**: Curioso, comprometido dedicado e excelente em trabalho em equipe.
