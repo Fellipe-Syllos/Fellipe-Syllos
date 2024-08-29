@@ -21,7 +21,7 @@ Atualmente, cursando Análise e Desenvolvimento de Sistemas, focando no desenvol
 </div>
 
 - 🗣️ **Idiomas**: Conhecimentos avançados em Inglês, Espanhol básico, Frânces básico.
-- 🤝 **Soft Skills**: Curioso, comprometido dedicado e excelente em trabalho em equipe.
+- 🤝 **Soft Skills**:Curioso, comprometido dedicado e excelente em trabalho em equipe | Liderança e empreendedorismo - Veiga de almeida |
 - 🌱 **Objetivos**: Estou sempre buscando refinar e ampliar minhas habilidades com lógica e linguagens de programação.
 - 🚀 **Carreira**: Abrindo caminho para uma carreira como desenvolvedor fullstack.
 
