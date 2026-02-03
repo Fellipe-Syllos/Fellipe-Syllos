@@ -26,7 +26,11 @@ Atualmente, cursando Análise e Desenvolvimento de Sistemas, focando no desenvol
 - 🚀 **Carreira**: Abrindo caminho para uma carreira como desenvolvedor fullstack.
 
 ## Status
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fellipe-Syllos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fellipe-Syllos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+  height="150" 
+  alt="Languages graph"
+/>
 </div>
 
 ## Conecte-se Comigo
